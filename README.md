@@ -115,3 +115,55 @@ Unstructured Information
     Human Judgment
           ↓
       Business Action
+
+
+The interesting part is not the model.
+
+The interesting part is where intelligence enters the business workflow.
+
+Areas I Work In
+
+Enterprise B2B Sales
+
+Complex enterprise sales
+CXO engagement
+Strategic account development
+Consultative selling
+Pipeline development
+Sales qualification
+
+AI & Automation
+
+AI-assisted sales workflows
+Prompt engineering
+Human-in-the-loop systems
+Sales intelligence
+Intent detection
+Workflow automation
+
+Business Transformation
+
+Process redesign
+Decision-support systems
+Commercial intelligence
+AI adoption
+Productivity and execution
+Technology
+
+AI / LLMs Python Automation n8n Google Sheets Telegram APIs
+
+The technology is secondary.
+
+The business problem comes first.
+
+Current Direction
+
+I am exploring how AI can move beyond content generation and become part of the commercial operating layer of a business.
+
+Market Intelligence → Sales Intelligence → Intent Intelligence → Decision Support → Business Action
+
+Connect
+
+LinkedIn
+
+GitHub
