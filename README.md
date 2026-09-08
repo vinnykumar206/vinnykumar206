@@ -164,6 +164,6 @@ Market Intelligence → Sales Intelligence → Intent Intelligence → Decision 
 
 Connect
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/vinay-hy/)
 
-GitHub
+[GitHub](https://github.com/vinnykumar206/vinnykumar206)
