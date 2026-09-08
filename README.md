@@ -73,7 +73,7 @@ An AI-assisted workflow designed to identify potential commercial signals from u
 
 > How can sales teams identify meaningful buying signals without manually searching through an ocean of information?
 
-[View Project](../b2b-sales-intelligence)
+[View Project](https://github.com/vinnykumar206/b2b-sales-intelligence)
 ---
 
 ### 03 | B2B Intent Intelligence
