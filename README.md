@@ -2,169 +2,144 @@
 
 ### Enterprise Sales | AI-Driven Business Intelligence | Automation
 
-I work at the intersection of **enterprise sales, AI, and business transformation**.
+I work at the intersection of **enterprise sales, AI, automation, and business transformation**.
 
-Over the years, I have worked on complex B2B sales environments where the challenge is rarely a lack of information.
+My focus is not simply on using AI tools. I am interested in designing systems that turn:
 
-The real challenge is turning information into **better decisions, faster action, and measurable business outcomes**.
+**Business Problem → Signals → Intelligence → Decision → Action**
 
-I am increasingly applying AI, automation, structured reasoning, and human-in-the-loop workflows to solve these problems.
+My portfolio demonstrates this approach through practical B2B intelligence systems designed around real commercial workflows.
 
 ---
 
 ## What I Build
 
-My focus is not on building software for the sake of software.
+I explore how AI and automation can help sales and business teams:
 
-I build **AI-enabled business systems** that help answer questions such as:
+- Detect meaningful business signals from unstructured information
+- Separate commercial signals from noise
+- Identify potential buying intent and organizational change
+- Prioritize opportunities for human investigation
+- Convert fragmented information into structured sales intelligence
+- Keep humans in the decision loop where judgment matters
 
-- What is happening in the market?
-- Which signals actually matter?
-- Does a signal represent a potential business opportunity?
-- How should a sales team prioritize it?
-- How can unstructured information be converted into actionable intelligence?
-- Where should AI automate the workflow, and where should human judgment remain?
+The goal is simple:
 
-My approach:
-
-**Business Problem → Signal → Intelligence → Decision → Action**
+> **Reduce information overload and help people make better commercial decisions faster.**
 
 ---
 
-## Selected AI & Automation Projects
+## Selected Projects
 
-### 01 | LinkedIn Influencer Intelligence
+### 01 · LinkedIn Influencer Intelligence
 
-An AI-assisted market intelligence system designed to turn high-value LinkedIn conversations into structured business insights and human-reviewed thought leadership.
+**Market Intelligence**
 
-**Capabilities**
+An AI-assisted system that monitors selected LinkedIn conversations and transforms relevant signals into structured market insights and thought-leadership opportunities.
 
-- Market signal monitoring
-- Recency and duplicate filtering
-- Dynamic categorization
-- AI-assisted strategic reframing
-- Multiple reasoning perspectives
-- Quality gates
-- Human-in-the-loop review
-
-**Business question:**
-
-> How can executives reduce the distance between an important market signal and an informed response?
+**Signal → Relevance → Strategic Interpretation → Human Review**
 
 [View Project](https://github.com/vinnykumar206/linkedin-influencer-intelligence)
 
 ---
 
-### 02 | B2B Sales Intelligence
+### 02 · B2B Sales Intelligence
 
-An AI-assisted workflow designed to identify potential commercial signals from unstructured business conversations and convert them into prioritized sales intelligence.
+**Sales Intelligence**
 
-**Capabilities**
+A sales intelligence workflow that converts unstructured business signals into prioritized commercial opportunities.
 
-- Signal discovery
-- Noise filtering
-- Commercial opportunity detection
-- Buyer and persona evaluation
-- Lead prioritization
-- CRM-oriented workflows
-- Human review and action
-
-**Business question:**
-
-> How can sales teams identify meaningful buying signals without manually searching through an ocean of information?
+**Business Signals → Intent Classification → Commercial Fit → Prioritization → Human Review**
 
 [View Project](https://github.com/vinnykumar206/b2b-sales-intelligence)
+
 ---
 
-### 03 | B2B Intent Intelligence
+### 03 · B2B Intent Intelligence
 
-An automated sales intelligence architecture that converts public business signals into structured opportunities.
+**Intent Intelligence**
 
-**Signal sources include**
+A signal-driven prospecting engine designed to identify potential commercial intent from public business activity, organizational changes, hiring signals, and publicly discussed business challenges.
 
-- Business news
-- Corporate hiring activity
-- Public discussions
-- Job signals
-- Other publicly available commercial indicators
+**Public Signals → Intent Detection → Scoring → Prospect Context → Opportunity → Human Action**
 
-The system applies deterministic classification, scoring, enrichment, and human review to prioritize potential opportunities.
+[View Project](https://github.com/vinnykumar206/b2b-intent-intelligence)
 
-**Business question:**
+---
 
-> Can publicly available signals reveal commercial intent before a traditional sales conversation begins?
+## The Bigger Picture
+
+These projects represent a progression rather than three isolated applications:
+
+**Market Intelligence**  
+↓  
+**Sales Intelligence**  
+↓  
+**Intent Intelligence**  
+↓  
+**Decision Support**  
+↓  
+**Business Action**
+
+The underlying question remains the same:
+
+> **How can unstructured information become useful commercial intelligence?**
 
 ---
 
 ## How I Think About AI
 
-I don't see AI as a replacement for business judgment.
+I see AI as a **decision-support layer**, not merely a content-generation tool.
 
-I see it as a **decision-support layer**.
+A useful AI-enabled business system should answer:
 
-```text
-Unstructured Information
-          ↓
-      Signal Detection
-          ↓
-     Classification
-          ↓
-    Context & Scoring
-          ↓
-     AI Reasoning
-          ↓
-    Human Judgment
-          ↓
-      Business Action
+1. **What happened?**
+2. **Why might it matter?**
+3. **How relevant is it?**
+4. **What should be investigated next?**
+5. **Where should human judgment take over?**
 
+This is why my projects deliberately include **filtering, scoring, prioritization, human review, and clear system boundaries**.
 
-The interesting part is not the model.
+---
 
-The interesting part is where intelligence enters the business workflow.
+## Areas of Focus
 
-Areas I Work In
+**Enterprise B2B Sales**  
+Complex enterprise selling, strategic accounts, CXO engagement, cybersecurity, SaaS and AI solutions.
 
-Enterprise B2B Sales
+**AI & Automation**  
+AI-assisted workflows, business intelligence, automation, agent concepts, prompt engineering and human-in-the-loop systems.
 
-Complex enterprise sales
-CXO engagement
-Strategic account development
-Consultative selling
-Pipeline development
-Sales qualification
+**Business Transformation**  
+Connecting technology, commercial strategy and human decision-making to accelerate business outcomes.
 
-AI & Automation
+---
 
-AI-assisted sales workflows
-Prompt engineering
-Human-in-the-loop systems
-Sales intelligence
-Intent detection
-Workflow automation
+## Technology
 
-Business Transformation
-
-Process redesign
-Decision-support systems
-Commercial intelligence
-AI adoption
-Productivity and execution
-Technology
-
-AI / LLMs Python Automation n8n Google Sheets Telegram APIs
+`AI / LLMs` · `Python` · `Automation` · `n8n` · `Google Sheets` · `Telegram` · `APIs`
 
 The technology is secondary.
 
-The business problem comes first.
+**The business problem comes first.**
 
-Current Direction
+---
 
-I am exploring how AI can move beyond content generation and become part of the commercial operating layer of a business.
+## Current Direction
 
-Market Intelligence → Sales Intelligence → Intent Intelligence → Decision Support → Business Action
+I am continuing to explore systems that connect:
 
-Connect
+**Signals → Intelligence → Intent → Decisions → Commercial Action**
 
-[LinkedIn](https://www.linkedin.com/in/vinay-hy/)
+with an emphasis on practical enterprise use cases rather than technology for technology's sake.
 
-[GitHub](https://github.com/vinnykumar206/vinnykumar206)
+---
+
+## Connect
+
+**LinkedIn:**  
+https://www.linkedin.com/in/vinay-hy/
+
+**GitHub:**  
+https://github.com/vinnykumar206
